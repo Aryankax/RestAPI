@@ -58,6 +58,8 @@ The API Should be now up and running locally.
     "Rating": "9"
 }
 `
+- Photo: <img width="960" alt="image" src="https://github.com/Aryankax/RestAPI/assets/113718466/5cbf27e7-4ff0-4c3a-886c-4174ed0f068f">
+
 
 ## Retrieve all/specific Movie/TV Show Details
 
@@ -65,18 +67,24 @@ The API Should be now up and running locally.
 - Method: GET
 - parmeters: `id`(unique identifier of the Movie/TV Show)
 - example: `localhost:8000/MovieAndTVShow/64f3423764f14450f71b4b0b`
+- Photo: <img width="960" alt="image" src="https://github.com/Aryankax/RestAPI/assets/113718466/dc74927d-9873-4518-8ee3-a0e1a23774c4">
+
 
 ## Update Movie/TV Show Details
 
 - Url: `localhost:8000/MovieAndTVShow/`
 - Method: Patch
 - paramters: `id` (unique identifier of the Movie/TV Show)
+- Photo: <img width="960" alt="image" src="https://github.com/Aryankax/RestAPI/assets/113718466/563914cc-230f-494a-b444-d533490082a4">
+
 
 ## Delete Movie/Tv Show Details
 
 - Url: `localhost:8000/MovieAndTVShow/`
 - Method: Delete
 - parameters: `id` (unique identifier of the Movie/TV Show)
+- Photo: <img width="677" alt="image" src="https://github.com/Aryankax/RestAPI/assets/113718466/27d869d9-d601-4227-a175-a3dea1727e6e">
+
 
 ## Usage
 
@@ -90,13 +98,6 @@ You can use this API to manage your collection of movies and TV shows. Here are 
 
 - Delete a movie or TV show from your collection.
 
-## Contributing 
-
-If you would like to contribute to this project, please follow our Contributing Guidelines.
-
-## License 
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 
 
